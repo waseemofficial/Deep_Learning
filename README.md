@@ -18,7 +18,7 @@
 
 
 <div align="center">
-<img src="https://img.shields.io/github/license/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/{env.}.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/languages/code-size/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/{env.}.svg?style=flat" />
+<img src="https://img.shields.io/github/license/waseemofficial/Deep_Learning.svg?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/Deep_Learning.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/Deep_Learning.svg?style=flat"/> <img src="https://img.shields.io/github/languages/code-size/waseemofficial/Deep_Learning.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/Deep_Learning.svg?style=flat" />
 </div>
 
 <div align="center"> 
